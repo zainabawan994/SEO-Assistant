@@ -1,0 +1,9 @@
+groq
+faiss-cpu
+sentence-transformers
+gradio
+pypdf
+reportlab
+matplotlib
+torch
+
